@@ -1,0 +1,27 @@
+.registration {
+    display: flex;
+    width: auto;
+    background-color: #fff;
+    flex-direction: column;
+    padding: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+}
+
+.registration__header {
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    color: #43436D;
+    border-bottom: 2px solid #43436D;
+}
+
+button {
+height: 35px;
+color: white;
+font-weight: 700;
+background: #43436D;
+border-radius: 15px;
+cursor: pointer;
+}
